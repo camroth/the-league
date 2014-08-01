@@ -47,7 +47,6 @@
 	The league uses standard Yahoo! scoring, with the addition of:
 	* 0.5 points per reception for QBs, RBs, WRs and TEs (0.5)
 	* 6 points for all touchdowns (6)
-	* 1 point per 20 yards thrown by a QB (0.05)
 	* QB INTs are worth -2 (-2)
 	* Kicker's gain 1 point for a missed FG of 50+ yards (+1)
 	* Kicker's lose 3 points for missing a PAT (-3)
